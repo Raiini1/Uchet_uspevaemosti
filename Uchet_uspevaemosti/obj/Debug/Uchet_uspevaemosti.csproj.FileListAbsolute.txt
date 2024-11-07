@@ -1,0 +1,13 @@
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\bin\Debug\Uchet_uspevaemosti.exe.config
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\bin\Debug\Uchet_uspevaemosti.exe
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\bin\Debug\Uchet_uspevaemosti.pdb
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.csproj.AssemblyReference.cache
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.csproj.SuggestedBindingRedirects.cache
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.Avtorizacia.resources
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.Attestachia.resources
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.Properties.Resources.resources
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.Uchitelya.resources
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.csproj.GenerateResource.cache
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.csproj.CoreCompileInputs.cache
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.exe
+E:\практика\практика 4 курс\ПП 03.01\файлы к практике\Uchet_uspevaemosti\Uchet_uspevaemosti\obj\Debug\Uchet_uspevaemosti.pdb
